@@ -1,5 +1,5 @@
 # SQL_Project_ENGETO-Academy
-** Autor:**Michal Čulík
+**Autor:** Michal Čulík
 ## Popis Projektu
 Tento projekt se zaměřuje na porovnání dostupnosti základních potravin (chleba, mléko) v závislosti na průměrných mzdách v České republice v letech 2006–2018. Projekt také zkoumá vliv HDP na tyto ekonomické faktory. Cílem bylo odpovědět na výzkumbné otázky týkající se výše zmínených dat a ukazatelů
 
