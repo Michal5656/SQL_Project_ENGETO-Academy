@@ -32,6 +32,19 @@ Data byly čerpány z těchto tabulek z portálu otevřených dat ČR:
 ### 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 *Odpověd:* Ano, vliv HDP je patrný zejména u mezd, kde silný růst ekonomiky predikuje budoucí nárůst mzdové hladiny. U cen potravin je závislost méně zřetelná, jelikož do hry vstupují další faktory (sezónnost, globální trhy). Například po propadu HDP v roce 2009 následovalo období mzdové stagnace v letech 2010–2011.
 
+## Závěr analýzy
+
+Cílem projektu bylo posoudit dostupnost základních potravin v kontextu průměrných mezd v České republice a analyzovat vliv makroekonomických ukazatelů (HDP) na tyto veličiny v letech 2006–2018.
+
+### Hlavní zjištění:
+1. **Vývoj mezd:** Mzdy ve sledovaném období většinově rostly. Jedinou výraznější stagnaci či pokles v některých odvětvích bylo možné pozorovat v roce 2013, což reflektovalo dozvuk tehdejší ekonomické recese.
+2. **Kupní síla:** Životní úroveň obyvatel se zvýšila. V roce 2018 si průměrný občan mohl pořídit o cca 55 kg chleba a 205 litrů mléka více než v roce 2006, i kdyby nakupoval obě položky současně.
+3. **Dynamika cen:** Ceny potravin jsou mnohem kolísavější než mzdy. Nejpomaleji rostoucí cenovou hladinu vykázal **cukr krystal**, který v průměru meziročně zlevňoval.
+4. **Cenové šoky:** Nebyl identifikován žádný rok, ve kterém by nárůst cen potravin překonal nárůst mezd o více než 10 procentních bodů. Ekonomika tedy v tomto směru zůstala stabilní.
+5. **Vliv HDP:** Analýza potvrdila souvislost mezi růstem HDP a následným růstem mezd. Pozitivní vývoj HDP se na zvýšení mezd a kupní síly projevuje zpravidla s ročním zpožděním.
+
+**Závěrečné shrnutí:**
+Data jasně ukazují, že i přes dílčí výkyvy a krize rostla v ČR dostupnost potravin rychleji než jejich cena, což vedlo k celkovému posílení kupní síly obyvatelstva v celém sledovaném období.
 
 
 
